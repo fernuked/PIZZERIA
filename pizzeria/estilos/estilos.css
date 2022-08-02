@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #f177c2;
+}
+
+header {
+    background-color: #df4b88;
+    text-align: center;
+}
+
+main {
+    background-color: #dc90ff;
+    height: 80%;
+
+}
+
+.datos {
+    background-color: #fcb4ff;
+    justify-content: center;
+    display: flex;
+    border-radius: 50px 50px 0px 0px;
+}
+
+.caja-dato {
+    background-color: #f177c2;
+    display: flex;
+    padding: 0px;
+    margin: 50px;
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+
+    
+}
+
+div {
+    margin: 20px;
+    text-align: center;
+    display: flow-root list-item;
+}
+
+fieldset {
+    width: 500px;
+    height: 500px;
+    background-color: #f177c2;
+}
+
+input {
+    background-color: #ffdbea;
+}
+
+select {
+    background-color: #ffdbea;
+}
+
+
+
+
